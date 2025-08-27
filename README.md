@@ -10,5 +10,5 @@
 
 步骤如下图：
 
-![10060](D:\zdd\doc\chatgpt-plus\10060.jpg)
+![10060](https://github.com/DBEast/chatgpt-plus/blob/main/10060.jpg)
 
